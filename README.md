@@ -8,9 +8,9 @@ PyBer, Ride Sharing App Company would like to create DataFrame and multiple-line
 the total weekly fares for each city type. 
 
 # Results 
-Based on the summary of the DataFrame by city types (Please refere the DataFrame); Rural cities had the lowest 
-number of rides, drivers and total fares as compared to SubUrban and Urban. The summary shows that Urban Cities 
-have close to 5x and 31X more drivers than Suburban and Rural, respectively. 
+Based on the summary of the DataFrame by city types, Rural cities had the lowest number of rides, drivers and
+total fares as compared to SubUrban and Urban. The summary shows that Urban Cities have close to 5x and 31X 
+more drivers than Suburban and Rural, respectively. 
 ![](PyBer_fare_summary.PNG)
 
 Similarly, Urban city type received the highest number of rides and fares among city types. However, Rural cities 
